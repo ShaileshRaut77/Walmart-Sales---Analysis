@@ -1,4 +1,6 @@
-# Walmart-Sales---AnalysisThe project starts with raw Walmart retail transaction data. The dataset contains information such as Order ID, Product Name, Category, Sales, Profit, Customer details, Gender, Age Group, City, State, Marketing/Advertisement, Subscription, Order Status, Ship Mode, Shipping Charges, Delivery Days, Rating, and Date-related fields.
+# Walmart-Sales---Analysis
+
+The project starts with raw Walmart retail transaction data. The dataset contains information such as Order ID, Product Name, Category, Sales, Profit, Customer details, Gender, Age Group, City, State, Marketing/Advertisement, Subscription, Order Status, Ship Mode, Shipping Charges, Delivery Days, Rating, and Date-related fields.
 
 The data was prepared and structured in Power BI before creating the dashboard. Data types were checked, date fields were formatted correctly, and the required calculations were created using DAX. A separate Measure Table was created to keep all important measures organised, including Total Sales, Total Orders, Total Profit, Average Order Value, Average Rating, Cancellation Rate, Total Customers, Profit Margin, Delivered Orders, Success Rate, and Shipping Charges.
 
